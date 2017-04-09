@@ -1,0 +1,39 @@
+div.container {
+    width: 100%;
+    border: 1px black;
+}
+
+header{
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+	font: 16px Calibri bold
+}
+
+
+tr:nth-child(7) {
+  font: 16px Calibri bold yellow
+}
+
+footer {
+    padding: 1em;
+    color: Black;
+    background-color: grey;
+    clear: left;
+    text-align: center;
+}
+
+div.banner {
+    background:url('http://www.tubefilter.com/wp-content/uploads/2009/03/imdb_logo.png');
+    width:13%;
+    min-height:145px;
+}
+
+body {
+    background-color: Grey;
+	font: 16px Calibri bold
+	
+	
+}
